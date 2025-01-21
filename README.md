@@ -59,7 +59,7 @@ pip install streamlit pandas plotly yfinance phi
 
 ### **2. Clone the Repository**
 ```
-git clone https://github.com/your-username/StockSense-AI.git
+git clone https://github.com/mtptisid/StockSense-AI
 cd StockSense-AI
 ```
 
@@ -76,8 +76,10 @@ Open your browser and navigate to `http://localhost:8501`.
 ## **How to Use**
 1. **Select a Stock**:
    - Choose a company from the dropdown menu.
+     
 2. **Analyze Stock Data**:
    - Click the "Analyze" button to view stock metrics, price charts, and company overview.
+     
 3. **Explore Options Data**:
    - Scroll down to view options chain data for the selected stock.
 
@@ -87,14 +89,23 @@ Open your browser and navigate to `http://localhost:8501`.
 While StockSense AI is already a robust tool, here are some ideas for future enhancements:
 1. **News Integration**:
    - Add a section to display the latest news related to the selected stock.
+     
 2. **Predictive Modeling**:
    - Use machine learning to predict stock price movements.
+
+
 3. **Portfolio Management**:
    - Allow users to create and track their stock portfolios.
+
+
 4. **Advanced Charting**:
    - Add technical indicators (e.g., RSI, MACD) to the price chart.
+
+
 5. **User Authentication**:
    - Implement user accounts to save preferences and analysis history.
+
+
 6. **API Key Management**:
    - Securely manage API keys using environment variables or Streamlit secrets.
 
@@ -102,9 +113,13 @@ While StockSense AI is already a robust tool, here are some ideas for future enh
 
 ## **Technologies Used**
 - **Streamlit**: For building the web interface.
+  
 - **Plotly**: For interactive charting.
+  
 - **yfinance**: For fetching stock and options data.
+  
 - **Phi**: For AI agent integration.
+  
 - **Groq**: For advanced AI capabilities.
 
 ---
@@ -148,7 +163,7 @@ Contributions are welcome! If you'd like to contribute to StockSense AI, please 
 ## **Contact**
 For questions or feedback, feel free to reach out:
 - **Email**: msidrm455@gmail.com
-- **GitHub**: [Siddharamayya](https://mtptidsid)
+- **GitHub**: [Siddharamayya](https://mtptisid.github.io)
 
 ---
 
