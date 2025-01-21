@@ -127,7 +127,13 @@ Contributions are welcome! If you'd like to contribute to StockSense AI, please 
 
 <img width="1440" alt="Screenshot 2025-01-21 at 1 50 31 PM" src="https://github.com/user-attachments/assets/31965cff-fa00-4fb0-8cd4-ea1296a81be8" />
 
-![Video](https://youtu.be/DO5TQzq7lG0)
+<div style="position: relative; width: 100%; padding-bottom: 56.25%">
+<iframe src="https://youtu.be/DO5TQzq7lG0" 
+        title="Anti-Trust - The War Machine" frameborder="0" allowfullscreen
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        style="position: absolute; width: 100%; height: 100%;">
+</iframe>
+</div>
 
 ---
 
