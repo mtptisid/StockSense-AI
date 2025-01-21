@@ -1,6 +1,5 @@
 # **StockSense AI: Stock Analysis and Options Trading Platform**
 
-![StockSense AI](https://via.placeholder.com/1200x400.png?text=StockSense+AI+Banner)  
 *Empowering traders with AI-driven stock analysis and options trading insights.*
 
 ---
@@ -118,9 +117,17 @@ Contributions are welcome! If you'd like to contribute to StockSense AI, please 
 4. Submit a pull request.
 
 ---
+## **ScreenShots**:
 
+<img width="1440" alt="Screenshot 2025-01-21 at 1 50 07 PM" src="https://github.com/user-attachments/assets/9ed5ed26-a8c0-4e54-b316-bb1d4c075a64" />
 
-https://youtu.be/DO5TQzq7lG0
+<img width="1440" alt="Screenshot 2025-01-21 at 1 50 15 PM" src="https://github.com/user-attachments/assets/5525e35b-9ad1-4b9d-98c2-29d3dc8bc68f" />
+
+<img width="1440" alt="Screenshot 2025-01-21 at 1 50 23 PM" src="https://github.com/user-attachments/assets/c13affed-35cf-4f03-9253-82494df67d2a" />
+
+<img width="1440" alt="Screenshot 2025-01-21 at 1 50 31 PM" src="https://github.com/user-attachments/assets/31965cff-fa00-4fb0-8cd4-ea1296a81be8" />
+
+![Video](https://youtu.be/DO5TQzq7lG0)
 
 ---
 
