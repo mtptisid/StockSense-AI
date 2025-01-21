@@ -127,12 +127,13 @@ Contributions are welcome! If you'd like to contribute to StockSense AI, please 
 
 <img width="1440" alt="Screenshot 2025-01-21 at 1 50 31 PM" src="https://github.com/user-attachments/assets/31965cff-fa00-4fb0-8cd4-ea1296a81be8" />
 
-[![StockSense AI](https://github.com/user-attachments/assets/c13affed-35cf-4f03-9253-82494df67d2a)](https://www.youtube.com/watch?v=DO5TQzq7lG0)
-
 ---
 
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## **Videos**:
+
+
+[![StockSense AI](https://github.com/user-attachments/assets/c13affed-35cf-4f03-9253-82494df67d2a)](https://www.youtube.com/watch?v=DO5TQzq7lG0)
+
 
 ---
 
@@ -146,7 +147,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## **Contact**
 For questions or feedback, feel free to reach out:
-- **Email**: your-email@example.com
+- **Email**: msidrm455@gmail.com
 - **GitHub**: [Siddharamayya](https://mtptidsid)
 
 ---
